@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/condaPython/VerificationCode.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/condaPython/douban.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/condaPython/pachong.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/bigdata/datawash.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/config.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/copyFile.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/deepStudy/dpstudyLogin.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/exam_bind_student.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/hyh/HM_device_bind.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/match_manage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/match_team.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/opencv_tutorial_o1/huatu.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/opencv_tutorial_o1/open_pic.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/shitiAdd.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/t_yield.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/talent/createUser.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/test123.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zjhw/win32.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加班级信息</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 5px;
+            max-width: 400px;
+        }
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<h2>添加班级信息</h2>
+<form action="/submit-class-info" method="POST">
+    <label for="className">班级名称:</label>
+    <input type="text" id="className" name="className" required>
+
+    <label for="classCode">班级编号:</label>
+    <input type="text" id="classCode" name="classCode" required>
+
+    <label for="classDescription">班级描述:</label>
+    <textarea id="classDescription" name="classDescription" rows="4"></textarea>
+
+    <input type="submit" value="提交">
+</form>
+
+</body>
+</html>
